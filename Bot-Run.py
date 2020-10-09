@@ -31,6 +31,12 @@ def baner():
 \033[37;1m▓▓▓▓▓▓█░░░░░░░░░░░░░░█
 \033[37;1m▓▓▓▓▓▓█████░░░░░░░░░█
  \033[37;1m██████▀░░░░▀▀██████▀''')
+
+
+
+
+
+
    
 def kata(s):
     for c in s + "\n":
@@ -271,6 +277,7 @@ if __name__=="__main__":
           oyo()
           mapclub()
           call()
+          kata("SPAM SUKSES FULL")
           time.sleep(2)
           soplai()
           depop()
@@ -280,10 +287,12 @@ if __name__=="__main__":
           indo()
           olx()
           call2()
+          kata("SPAM SUKSES FULL
           time.sleep(2)
           alodoc()
           klik()
           wa2()
+          kata("SPAM SUKSES FULL")
           time.sleep(2)
           kata("[●]Spam Suksesfull..")
           kata("[+]TERIMAKASIH SUDAH MENGUNAKAN SCRIP INI..")
