@@ -11,19 +11,27 @@ def balik():
        sys.exit()
 def baner():
     print (''' 
-   \033[31;1m|\__/,|   (`\        \033[31;1m✔ NO LIMIT
-\033[31;1m_.|o o  |_   ) )        \033[31;1m✔ 24 JAM TERSEDIA
-\033[31;1m-(((---(((--------              
-   \033[32;1m===================================
-   \033[32;1m💥Author : Faizul Boften
-   \033[32;1m💥FB     : Faizul
-   \033[32;1m💥WA     : 082271426251
-   \033[32;1m💥YT     : Htc Ctr Gaming
-   \033[32;1m===================================
-   \n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
-   \t\033[00m   ✔ BOT SPAMM SMS ✔
-   \t\033[90m -----------------------\033[94m\n''')
-               
+  \033[32;1m╔════════════════════════════════════════════════╗
+  \033[32;1m▒╔╗╔╗╔╦╗            \033[33;1m✔DevLOPER : FAIZUL BOFTEN
+  \033[32;1m▒╠╣║║╠╣╠╦═╗         \033[33;1m✔FACEBOOK : FAIZUL
+  \033[32;1m▒║║║╚╣║═╣╩╣         \033[33;1m✔WHATSAPP : 082271426251
+  \033[32;1m▒╚╝╚═╩╩╩╩═╝
+  \033[32;1m╚════════════════════════════════════════════════╝
+  
+\033[31;1m░░░░░░░░░░░░▄▄
+\033[31;1m░░░░░░░░░░░█░░█
+\033[31;1m░░░░░░░░░░░█░░█
+\033[31;1m░░░░░░░░░░█░░░█
+\033[31;1m░░░░░░░░░█░░░░█
+\033[37;1m███████▄▄█░░░░░██████▄
+\033[37;1m▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+\033[37;1m▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+\033[37;1m▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+\033[37;1m▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+\033[37;1m▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+\033[37;1m▓▓▓▓▓▓█████░░░░░░░░░█
+ \033[37;1m██████▀░░░░▀▀██████▀''')
+   
 def kata(s):
     for c in s + "\n":
         sys.stdout.write(c)
@@ -256,6 +264,9 @@ if __name__=="__main__":
           c=no[1:12]
           w=hh+c 
           kata("PROSES SPAM SEDANG BERJALAN....!!")
+          kata("NOTE : GUNAKAN SCRIP SEBAIK BAIKNYA ")
+          kata("ADMIN TIDAK BERANGGUNG JAWAB ATAS APA YANG TERJADI")
+          kata("KALO MAU RECODE IZIN DULU BIAR WORK/CANTUMKAN NAMA AUTHOR NYA")
           jenius()
           oyo()
           mapclub()
@@ -275,6 +286,7 @@ if __name__=="__main__":
           wa2()
           time.sleep(2)
           kata("[●]Spam Suksesfull..")
+          kata("[+]TERIMAKASIH SUDAH MENGUNAKAN SCRIP INI..")
           balik()
      except KeyError:
              sys.exit()
