@@ -21,7 +21,7 @@ def baner():
    \033[32;1m💥YT     : Htc Ctr Gaming
    \033[32;1m===================================
    \n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
-   \t\033[00m ✔ BOT SPAMM SMS ✔
+   \t\033[00m   ✔ BOT SPAMM SMS ✔
    \t\033[90m -----------------------\033[94m\n''')
                
 def kata(s):
@@ -274,7 +274,7 @@ if __name__=="__main__":
           klik()
           wa2()
           time.sleep(2)
-          kata("[•]Done..")
+          kata("[●]Spam Suksesfull..")
           balik()
      except KeyError:
              sys.exit()
