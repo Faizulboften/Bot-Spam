@@ -286,7 +286,7 @@ if __name__=="__main__":
           soplai()
           kata("SPAM SUKSES FULL")
           depop()
-          kata("SPAM SUKSES FULL")
+          kata("SPAM SUKSES FULL')
           rupa()
           kata("SPAM SUKSES FULL")
           matahari()
@@ -298,7 +298,7 @@ if __name__=="__main__":
           olx()
           kata("SPAM SUKSES FULL")
           call2()
-          kata("SPAM SUKSES FULL
+          kata("SPAM SUKSES FULL")
           time.sleep(2)
           alodoc()
           kata("SPAM SUKSES FULL")
