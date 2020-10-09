@@ -286,7 +286,7 @@ if __name__=="__main__":
           soplai()
           kata("SPAM SUKSES FULL")
           depop()
-          kata("SPAM SUKSES FULL')
+          kata("SPAM SUKSES FULL")
           rupa()
           kata("SPAM SUKSES FULL")
           matahari()
